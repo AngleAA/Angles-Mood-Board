@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: url("");
+    background-color: purple;
+}
+
+h1{
+    color: yellow;   
+}
+
+.message{
+    color: black;
+    font-size: 25px;
+}
